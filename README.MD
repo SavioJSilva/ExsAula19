@@ -10,4 +10,4 @@ Exercicio 04: Crie um programa que gerencie o aproveitamento de um jogador de fu
 
 Exercicio 05: Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre: A) Quantas pessoas foram cadastradas B) A média de idade C) Uma lista com as mulheres D) Uma lista de pessoas com idade acima da média.
 
-Exercicio 06:
+Exercicio 06: Aprimore o desafio 04 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
